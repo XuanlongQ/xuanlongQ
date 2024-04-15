@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 </p>
-  <img width="500" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
+  <img alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
 </p>
