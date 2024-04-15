@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Jump Jump 👋
 
 <!--
 **XuanlongQ/xuanlongQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+</p>
+  <img  alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
+</p>
