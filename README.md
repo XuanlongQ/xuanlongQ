@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
+👋 Hi, I’m Xuanlong QIN 
+✨ I'm a Ph.D. student at the Chinese University of Hong Kong (CUHK) at the Computational Social Science Lab.
+📫 My website is https://xuanlongq.github.io/, where you can find more information about my publications and past research projects.
+
 </p>
   <img alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
 </p>
